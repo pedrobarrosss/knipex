@@ -1,0 +1,32 @@
+body{
+	background-color: rgb(235,235,235);
+}
+div.boas-vindas{
+	margin: 10% auto;
+	width: 400px;
+	height: 200px;
+	background-color: white;
+	padding: 3% 1%;
+	text-align: center;
+	-webkit-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
+	-moz-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
+	box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
+}
+
+div.boas-vindas h1{
+	color: #39ad5a;
+}
+
+div.boas-vindas p{
+	color: rgb(95,95,95);
+	font-weight: bold;
+	font-size: 17px;
+	padding-top: 5px;
+}
+
+div.boas-vindas i{
+	padding-top: 5px;
+	color: rgb(95,95,95);
+	font-weight: bold;
+	font-size: 60px;
+}
